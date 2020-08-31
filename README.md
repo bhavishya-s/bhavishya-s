@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on a chat app in Reactjs and Firebase
+🌱 I’m trying to learn backend development
 
 <!--
 **bhavishya-s/bhavishya-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
