@@ -1,4 +1,5 @@
 ### Hi there 👋
+I love JavaScript <3
 🔭 I’m currently working on a chat app in Reactjs and Firebase
 🌱 I’m trying to learn backend development
 
